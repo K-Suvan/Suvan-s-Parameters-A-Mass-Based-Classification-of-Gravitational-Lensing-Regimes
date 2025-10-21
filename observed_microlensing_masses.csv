@@ -1,0 +1,17 @@
+Event_Name,Lens_Mass_Msun,Mass_Error_Lower_Msun,Mass_Error_Upper_Msun,Einstein_Radius_mas,Distance_kpc,Event_Timescale_days,Reference,Survey,Measurement_Method
+OGLE-2011-BLG-0462 (MOA-11-191),7.1,1.3,1.3,3.0,1.58,270,Sahu et al. 2022 (ApJ 933),OGLE+HST,Astrometry+Parallax
+OGLE-2011-BLG-0462 (reanalysis),7.88,0.82,0.82,3.2,1.49,270,Mroz et al. 2022 (ApJL),OGLE+HST,Astrometry+Parallax
+OGLE-1999-BUL-32,3.0,1.0,2.0,2.5,5.5,640,Mao et al. 2002 (MNRAS 329),OGLE+MACHO,Parallax+Light curve
+OGLE-2003-BLG-238,0.92,0.56,0.56,0.65,6.0,38,Jiang et al. 2004 (ApJ),OGLE+microFUN,Finite source+Parallax
+OGLE-2015-BLG-0845L,0.14,0.05,0.05,0.5,7.2,25,Hu et al. 2024 (MNRAS 533),OGLE,Statistical
+OGLE-2014-BLG-0939,0.5,0.2,0.2,0.8,4.5,55,Yee et al. 2014 (ApJ),OGLE+Spitzer,Parallax
+OGLE-2017-BLG-0039 (primary),1.0,0.2,0.2,1.2,6.0,130,Han et al. 2018 (ApJ),OGLE+MOA,Parallax+Caustic
+OGLE-2017-BLG-0039 (secondary),0.15,0.03,0.03,0.4,6.0,130,Han et al. 2018 (ApJ),OGLE+MOA,Parallax+Caustic
+OGLE-2014-BLG-0124L,0.71,0.1,0.1,0.84,4.1,45,Udalski et al. 2014 (ApJ),OGLE+Spitzer,Parallax (Spitzer)
+MOA-2011-BLG-322L,0.5,0.1,0.1,0.9,5.0,50,Shvartzvald et al. 2014 (ApJ),MOA,Parallax
+OGLE-2016-BLG-0156L,0.8,0.15,0.15,1.0,5.5,60,Bond et al. 2017 (MNRAS),OGLE+MOA,Parallax
+OGLE-2015-BLG-0060 (combined),1.5,0.3,0.3,1.5,5.0,80,Bennett et al. 2019 (MNRAS 487),OGLE+follow-up,Binary modeling
+MOA-bin-1,0.08,0.02,0.02,0.3,3.5,12,Bennett et al. 2012 (ApJ),MOA,Photometry
+OGLE-IV median (bulge),0.4,0.1,0.1,0.7,6.0,20,Mroz et al. 2019 (ApJS 244),OGLE-IV,Statistical sample
+MOA-II median (bulge),0.35,0.1,0.1,0.65,6.0,22,Sumi et al. 2013 (ApJ 778),MOA-II,Statistical sample
+Theoretical 60 M_Jup,0.057,0.005,0.005,0.24,4.0,25,Wikipedia/Gould 2000,Theory,Theoretical
